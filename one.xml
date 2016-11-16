@@ -1,0 +1,65 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>enwikibooks</dbname>
+    <base>https://en.wikibooks.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.27.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Cookbook</namespace>
+      <namespace key="103" case="first-letter">Cookbook talk</namespace>
+      <namespace key="108" case="first-letter">Transwiki</namespace>
+      <namespace key="109" case="first-letter">Transwiki talk</namespace>
+      <namespace key="110" case="first-letter">Wikijunior</namespace>
+      <namespace key="111" case="first-letter">Wikijunior talk</namespace>
+      <namespace key="112" case="first-letter">Subject</namespace>
+      <namespace key="113" case="first-letter">Subject talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>My Very Own Page</title>
+    <ns>0</ns>
+    <id>53535353</id>
+    <revision>
+      <id>53535353</id>
+      <parentid>2373587</parentid>
+      <timestamp>2013-03-06T15:30:54Z</timestamp>
+      <contributor>
+        <username>US</username>
+        <id>75960</id>
+      </contributor>
+      <comment>seems more appropriate</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Hi everybody! My name is unknown student and you are about to parse me. I am going to paste I Won't Give UP by Jason Mraz because it has been playing nonstop since I started this project. When I look into your eyes. It's like watching the night sky Or a beautiful sunrise Well, there's so much they hold And just like them old stars I see that you've come so far To be right where you are How old is your soul? ell, I won't give up on us Even if the supercalafragalistic skies get rough I'm giving you all my love I'm still looking up To do some navigating I'll be here patiently waiting To see what you find 'Cause even the stars they burn Some even fall to the earth We've got a lot to learn God knows we're worth it No, I won't give up I don't wanna be someone who walks away so easily I'm here to stay and make the difference that I can make Our differences they do a lot to teach us how to use The tools and gifts we got, yeah, we got a lot at stake And in the end, you're still my friend at least we did intend
+      For us to work we didn't break, we didn't burn We had to learn how to bend without the world caving in I had to learn what I've got, and what I'm not, and who I am I won't give up on us Even if the skies get rough I'm giving you all my love I'm still looking up, I'm still looking up. Well, I won't give up on us (no I'm not giving up)God knows I'm tough enough (I am tough, I am loved) We've got a lot to learn (we're alive, we are loved) God knows we're worth it (and we're worth it) I won't give up on us Even if the skies get rough I'm giving you all my love I'm still looking up
+      </text>
+      <sha1>ls63cb69di8i31p5qikhx6xxot5jcfw</sha1>
+    </revision>
+  </page>
+</mediawiki>

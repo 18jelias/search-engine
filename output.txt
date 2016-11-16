@@ -1,0 +1,2258 @@
+padding:0px 1 1
+
+devot 5 1
+
+cellpadding="5 5 1
+
+biolog 5 1
+
+alken 10 71
+
+addit 10 28
+addit 5 1
+
+aceton 10 3
+
+accomplish 5 1
+
+absenc 10 2
+
+abil 10 4
+abil 5 1
+
+accompani 10 2
+
+access 10 1
+
+accur 10 1
+
+account 10 1
+
+acet 10 3
+
+acid/bas 5 1
+
+acid-bas 10 1
+
+acid 10 6
+
+acid.<p 10 1
+
+acid-catalyz 10 1
+
+ad 10 2
+
+act 10 4
+
+action 10 1
+
+add 10 5
+
+alchol 10 1
+
+advantag 10 2
+
+adequ 10 1
+
+addition== 10 3
+
+addition</b>.<p 10 1
+
+adjac 10 4
+
+agent.<p 10 1
+
+affin 10 1
+
+affect 10 3
+
+agent 10 1
+
+age 10 1
+
+agrawal</ref 10 1
+
+aka 10 1
+
+alcohols== 10 1
+
+alcohol] 10 1
+
+alcohol 10 11
+
+alcohol.] 10 1
+
+alcohols.th 10 1
+
+alcohols.<p 10 1
+
+alkalin 10 1
+
+aliphat 10 1
+
+aldehyd 10 1
+
+alkan 10 4
+
+avinash 10 1
+
+answer 5 2
+
+alumina 10 2
+
+alkyl 10 18
+
+alkene.{{cit 10 1
+
+alkene. 10 1
+
+alkenes.<ref>iit 10 1
+
+alkyn 10 6
+
+alkylboran 10 3
+
+alloy 10 1
+
+alkynes== 10 1
+
+altern 10 2
+
+amount 10 3
+
+ammonia 10 1
+
+aluminium 10 1
+
+and/or 10 1
+
+analyt 10 1
+
+analog 10 1
+
+ancient 5 1
+
+anion 10 4
+
+angl 10 1
+
+applic 10 2
+
+anti-markovnikov 10 1
+
+anti-configur 10 1
+
+anti 10 2
+
+anti-coplanar 10 4
+
+anti-markovnikov 10 1
+
+anti-markovnikov 10 1
+
+anyoth 10 1
+
+atom 10 25
+atom 5 1
+
+argu 10 1
+
+aprot 10 3
+
+approach 10 4
+
+aqueous 10 1
+
+assign 10 1
+
+aspect 10 2
+
+assum 10 1
+
+attack 10 20
+
+attach 10 12
+
+atoms'''] 10 1
+
+attribut 10 1
+
+bartels] 3 1
+
+bh<sub>3</sub 10 1
+
+bhr<sub>2</sub>) 10 1
+
+ball 10 1
+
+back-sid 10 1
+
+bh<sub>2</sub>r 10 1
+
+bh<sub>3</sub> 10 1
+
+bh3 10 1
+
+bh<sub>3</sub 10 1
+
+bh<sub>3</sub 10 1
+
+border 10 1
+
+bh<sub>3</sub 10 1
+
+border 10 1
+
+bases|lewi 10 1
+
+bases] 7 1
+
+base 10 14
+base 5 1
+
+base] 10 1
+
+bases]] 10 1
+
+bear 10 1
+
+bases|acid 7 1
+
+basic 10 1
+
+behaviour 10 1
+
+behavior 10 1
+
+begin 10 2
+
+below) 10 1
+
+but-2-en 10 1
+
+border-spacing:10px 1 1
+
+book 10 3
+book 5 1
+
+bombard 5 1
+
+block 10 1
+
+bit 10 1
+
+bodi 5 1
+
+bond.<p 10 2
+
+bond 10 65
+bond 5 1
+
+bond<br 10 1
+
+boran 10 1
+
+books] 1 1
+
+border 10 9
+
+bring 5 1
+
+br<sub>2</sub 10 1
+
+bottom 10 4
+
+borohydrid 10 1
+
+borid 10 1
+
+boron 10 7
+
+br 10 2
+
+box 10 1
+
+br-br 10 1
+
+briefli 10 1
+
+br<sup>-</sup> 10 1
+
+br<sup>-</sup 10 2
+
+break 10 3
+
+bright 10 1
+
+build 7 1
+build 5 1
+
+bromonium 10 1
+
+bromid 10 3
+
+broken 10 2
+
+bromin 10 8
+
+brought 10 1
+brought 5 1
+
+burn 10 1
+burn 5 1
+
+bulkier 10 1
+
+carbon 10 58
+carbon 5 1
+
+c-l 10 1
+
+c-2 10 1
+
+buten 10 1
+
+butan 10 1
+
+c-h 10 1
+
+c-c 10 1
+
+c-3 10 1
+
+c-h 10 1
+
+c-c 10 1
+
+carben 10 1
+
+ch<sub>3</sub>—cl 10 1
+
+ch<sub>3</sub>cn 10 1
+
+ch<sub>3</sub>x 10 1
+
+candid 10 1
+
+ch<sub>3</sub>cn 10 1
+
+ch-br 10 1
+
+cn<sup>-</sup> 10 1
+
+ch<sub>3</sub>-br 10 1
+
+ch<sub>3</sub>x 10 1
+
+ch<sub>3</sub>x 10 1
+
+call 10 7
+
+ch_2=ch-ch_3 10 1
+
+carboc 10 12
+
+carbenoid 10 1
+
+ch3-chbr-ch_3 10 1
+
+call 10 6
+
+carboc 10 1
+
+case 10 16
+
+carbon-to-carbon 10 1
+
+carbon-carbon 10 7
+
+carbon) 10 1
+
+carbonium 10 4
+
+carbon. 10 1
+
+carbon|α-carbon]] 10 1
+
+carbonyl 10 1
+
+carri 10 3
+
+catalyt 10 3
+
+catalyst 10 6
+
+catalog 1 1
+
+catalyst.<p 10 1
+
+caus 10 3
+
+cation 10 1
+
+compound 10 3
+compound 5 2
+
+chemistry]] 5 1
+
+chemistri 9 1
+chemistri 10 5
+chemistri 7 2
+chemistri 5 15
+
+chapter 10 2
+chapter 5 1
+
+chain 10 5
+
+center 10 4
+
+certainti 10 1
+
+chang 10 1
+
+chanc 10 1
+
+chemic 10 1
+
+characterist 10 4
+
+character.<p 10 1
+
+charg 10 4
+
+chemist 10 1
+chemist 5 1
+
+chemistry/electron 7 1
+
+chemistry/acid 7 1
+
+chemistry/acid 10 1
+
+chemistry/histori 7 1
+
+chemistry/atom 7 1
+
+chemistry] 7 1
+
+collect 1 1
+
+cis-but-2-en 10 3
+
+chlorid 10 2
+
+chief 10 1
+
+chemistry|histori 7 1
+
+chiefli 10 1
+
+cis 10 4
+
+chloronium 10 1
+
+chlorin 10 5
+
+choic 10 4
+
+cis-alken 10 2
+
+cis/tran 10 3
+
+cis-tran 10 2
+
+cis-reduct 10 1
+
+cis-trans== 10 1
+
+close 10 3
+close 5 1
+
+cl<sup>-</sup 10 3
+
+cl 10 2
+
+closest 10 1
+
+common 10 5
+
+comma 10 1
+
+combin 10 2
+
+collis 10 1
+
+come 10 2
+
+commerci 10 1
+
+complet 10 3
+
+comparison 10 1
+
+compar 10 2
+
+compet 10 7
+
+complex] 10 1
+
+complex 10 5
+
+complic 10 1
+complic 5 1
+
+compon 10 1
+
+critic 5 1
+
+context 5 1
+
+condit 10 8
+condit 5 1
+
+concentr 10 9
+concentr 5 1
+
+comput 5 1
+
+comprehens 5 1
+
+concern 10 2
+
+concept 10 3
+concept 7 8
+concept 5 1
+
+concert 10 3
+
+conform 10 5
+
+configur 10 4
+
+conduct 10 1
+
+connect 10 3
+
+conjug 10 1
+
+constant 10 2
+
+consid 10 1
+
+content 9 1
+content 7 1
+
+coval 5 1
+
+conveni 10 2
+conveni 5 1
+
+contrari 10 2
+
+continu 10 4
+
+contrast 10 2
+
+correct 10 3
+
+convert 10 4
+
+correspond 10 1
+
+cram 5 1
+
+cover 10 1
+
+creat 10 11
+
+dehalogen 10 1
+
+daunt 5 1
+
+cyclohexen 10 3
+
+cyclic 10 2
+
+crucial 10 1
+
+cycloaddit 10 3
+
+cyclohexan 10 1
+
+daili 5 3
+
+dmso 10 1
+
+cyclopropan 10 1
+
+dmf 10 1
+
+dash 10 1
+
+decolor 10 1
+
+debromin 10 2
+
+deal 10 1
+
+decid 10 2
+
+decomposit 10 1
+
+degre 10 4
+
+describ 10 1
+
+dehydrohalogen 10 3
+
+dehydr 10 6
+
+dehydrohalog 10 1
+
+densiti 10 1
+
+dehydrohalogenalion 10 1
+
+deriv 10 1
+
+depend 10 10
+
+descend 10 1
+
+detail 10 2
+
+design 10 1
+
+descript 10 1
+
+desir 10 2
+
+detour 10 1
+
+determin 10 9
+
+id="mp-cont 1 1
+
+equat 5 1
+
+double-bond 10 4
+
+dihalid 10 3
+
+diels–alder 10 1
+
+diels-alder 10 1
+
+dibromides== 10 1
+
+diboran 10 3
+
+diagram 10 1
+
+dichloroalkan 10 1
+
+dibromo 10 1
+
+dielectr 10 2
+
+diels–alder 10 1
+
+diels–alder 10 1
+
+differ 10 11
+
+dienophil 10 1
+
+dien 10 2
+
+dienophile) 10 1
+
+difficult 10 3
+
+discuss 10 9
+
+dipol 10 1
+
+dimer 10 1
+
+dilut 10 1
+
+dioxid 10 1
+
+direct 10 2
+
+disassoci 10 3
+
+divid 10 1
+
+displac 10 3
+
+dissoci 10 5
+
+dot 7 2
+
+domin 10 3
+
+doubl 10 35
+
+earth 5 1
+
+e-z 10 1
+
+dr.o.p.agrawal 10 1
+
+doubly-bond 10 1
+
+doublen 10 1
+
+due 10 6
+
+draw 10 4
+
+dust 10 1
+
+earlier 10 1
+
+e2 10 2
+
+e-z 10 1
+
+e2== 10 1
+
+e2</h3 10 1
+
+ez 10 1
+
+earlier 10 1
+
+electron 10 8
+
+ecolog 5 1
+
+easi 10 1
+
+eas 10 1
+
+easier 10 1
+easier 5 1
+
+effect 10 5
+
+edit]].</div 1 1
+
+econom 10 1
+
+effect|induct 10 1
+
+effect]] 10 1
+
+energet 10 1
+
+elimin 10 16
+
+element 10 3
+
+electrophil 10 12
+
+elementari 10 1
+
+elig 10 1
+
+employ 10 1
+
+else)<br 10 1
+
+elimination] 10 1
+
+end 10 2
+
+entgegen 10 3
+
+enhanc 10 1
+
+energi 10 4
+
+epoxid 10 1
+
+environ 10 1
+
+equal 10 2
+
+formula 10 3
+formula 5 1
+
+explain 10 2
+explain 5 1
+
+exact 10 1
+
+ether 10 3
+
+etc… 5 1
+
+estim 10 1
+
+ethanol 10 1
+
+ethan 10 1
+
+evid 10 2
+
+ethylen 10 1
+
+exclus 10 1
+
+excel 10 1
+
+exceed 10 1
+
+exampl 10 2
+
+except 10 1
+
+expans 10 1
+
+exist 10 2
+
+experi 10 1
+
+expel 10 1
+
+field 5 1
+
+fact 10 4
+
+extent 10 2
+
+extend 10 1
+
+f<sup>-</sup 10 2
+
+extract 10 1
+
+fast 10 1
+
+factor 10 2
+
+factious 5 1
+
+fall 10 1
+
+favor 10 3
+
+faster 10 1
+
+featur 10 1
+
+float:right 1 1
+
+find 10 2
+find 5 2
+
+fill 10 2
+
+figur 5 1
+
+final 10 2
+
+flame 10 1
+
+fire 5 1
+
+first-ord 10 2
+
+flip 10 3
+
+font-size:95%;" 1 1
+
+follow 10 4
+
+fold 10 1
+
+fluorid 10 1
+
+font-size:95% 1 1
+
+foremost 5 1
+
+food 5 1
+
+forc 10 3
+
+form 10 14
+form 5 1
+
+format 10 2
+
+habit 5 1
+
+grignard 10 1
+
+geolog 5 1
+
+freshman 7 1
+
+free 10 6
+
+foundat 7 1
+foundat 5 1
+
+free-rad 10 1
+
+frequent 10 1
+
+gain 5 1
+
+fulli 5 1
+
+front 10 1
+
+generat 5 1
+
+general 10 18
+general 5 1
+
+generic 10 2
+
+good 10 4
+good 5 1
+
+glanc 5 1
+
+german 10 1
+german 4 1
+
+geometri 10 3
+
+give 10 5
+give 5 1
+
+goal 10 2
+
+glycol 10 1
+
+gold 10 2
+
+greater 10 2
+
+great 10 4
+
+greek 10 1
+
+greatest 10 3
+
+green 10 1
+
+h-br 10 1
+
+group'' 10 1
+
+group 10 26
+
+group' 10 2
+
+guidelin 10 1
+
+group=== 10 1
+
+groups</h3 10 1
+
+h-oh.<p 10 1
+
+h-x 10 1
+
+ho—ch<sub>3</sub 10 1
+
+h<sub>2</sub>o 10 1
+
+h<sub>2</sub>o 10 1
+
+h<sub>2</sub 10 1
+
+h<sub>2</sub>o 10 1
+
+hoch3 10 1
+
+hmpa 10 1
+
+hbr 10 1
+
+hbr 10 1
+
+hbr 10 1
+
+hcl 10 1
+
+hbr 10 1
+
+horizont 10 1
+
+happen 10 7
+
+halogenation] 9 1
+
+haloalkanes== 10 1
+
+halid 10 35
+
+haloalkan 10 5
+
+haloalkanes] 10 2
+
+halogen 10 8
+
+hand 10 3
+
+halv 10 1
+
+high 10 19
+
+heat 10 3
+
+hard 10 1
+
+hig 10 1
+
+help 10 1
+
+highest 10 1
+
+higher 10 3
+
+hindranc 10 1
+
+hinder 10 6
+
+hold 10 2
+
+hypothet 10 1
+
+hydrogen 10 59
+
+hybrid 10 1
+
+hous 5 1
+
+hydration.<p 10 2
+
+hydrat 10 1
+
+hydrobor 10 8
+
+hydrogens. 10 1
+
+hydrogen== 10 1
+
+hydrogen-bond 10 1
+
+hydroxymercuri 10 1
+
+hydrohal 10 1
+
+hyperconjug 10 3
+
+iupac 10 1
+
+i<sup>-</sup 10 2
+
+i-ch<sub>3</sub 10 1
+
+i<sup>-</sup> 10 1
+
+ice 10 1
+
+iupac 10 1
+
+iupac 10 1
+
+medicin 5 1
+
+key 10 2
+key 5 1
+
+interest 4 1
+
+import 10 13
+import 5 1
+
+illustr 10 5
+
+idea 10 1
+idea 5 1
+
+id="pagecount 1 1
+
+ident 10 1
+
+imag 10 6
+
+impli 10 3
+
+industri 10 2
+industri 5 1
+
+increas 10 1
+
+includ 10 2
+
+improv 10 1
+
+incorrect 10 1
+
+induc 10 1
+
+intend 5 1
+
+initi 10 3
+
+influenc 10 1
+
+insight 10 1
+
+interact 10 1
+
+isom 10 5
+
+iodid 10 4
+
+introduct 9 1
+
+intermediates]] 10 1
+
+intermedi 10 6
+
+intern 10 2
+
+involv 10 10
+
+invers 10 2
+
+ion 10 15
+
+iodide] 10 1
+
+ions.<p 10 1
+
+ionic 10 1
+
+isol 10 2
+
+k[nu:][rx]</math 10 1
+
+john 10 1
+
+isomer 10 1
+
+isopropyl 10 1
+
+k[rx]</math 10 1
+
+k[nu:][rx]</math 10 1
+
+kcal 10 1
+
+k[rx]</math 10 1
+
+koh.<p 10 1
+
+kcal/mol 10 3
+
+keton 10 1
+
+light" 5 1
+
+lead 10 2
+
+languag 4 1
+
+knowledg 5 4
+
+kind 10 3
+kind 5 1
+
+know 10 2
+
+laboratori 10 1
+
+larg 10 1
+
+larger 10 1
+
+left 10 9
+
+learn 10 1
+learn 5 1
+
+leav 10 35
+
+life 5 2
+
+lewi 10 2
+
+life? 5 1
+
+margin:0em 1 1
+
+list 5 1
+
+line 5 1
+
+limit 10 2
+
+lindlar 10 1
+
+liquid 10 1
+
+link 10 1
+
+lowest 10 3
+
+locat 10 2
+
+lithium 10 1
+
+lot 10 1
+
+lost 10 1
+
+main 10 1
+
+magnesium 10 1
+
+make 10 3
+
+major 10 2
+
+materi 5 1
+
+margin:25px 1 1
+
+margin:0px 1 1
+
+markovnikov 10 16
+
+mechan 10 56
+mechan 5 1
+
+mean 10 3
+mean 5 1
+
+mcmurry</ref 10 1
+
+measur 10 1
+
+mechanism] 10 1
+
+mechanim 10 1
+
+natur 10 1
+natur 4 1
+
+mind 10 3
+
+method 10 6
+
+mercuri 10 1
+
+mention 10 1
+
+memor 5 2
+
+mercur 10 3
+
+mercury.)<p 10 1
+
+mercurinium 10 3
+
+metal 10 1
+
+michael 5 1
+
+methyl 10 8
+
+methylhalid 10 1
+
+mild 10 1
+
+middl 10 3
+
+million 5 1
+
+molecul 10 27
+molecul 5 1
+
+mnemon 10 1
+
+mixtur 10 7
+
+minut 10 2
+
+modern 10 1
+
+model 5 1
+
+moieti 10 1
+
+mysteri 5 1
+
+monom 10 1
+
+molecular 10 2
+molecular 5 1
+
+multipl 10 1
+
+name 10 2
+
+nh 10 1
+
+n-butyl 10 2
+
+nabh<sub>4</sub> 10 1
+
+name=mcmurry/ 10 1
+
+office|browse] 1 1
+
+notation= 10 1
+
+nickel 10 3
+
+net 10 1
+
+needed|date=april 10 1
+
+necessarili 10 2
+
+neighbor 10 3
+
+negat 10 2
+
+newli 10 1
+
+neutral 10 1
+
+newman 10 3
+
+nomenclatur 10 1
+
+nickel|raney 10 1
+
+nickel] 10 1
+
+night 5 1
+
+notat 10 5
+
+not,in 10 1
+
+non-hydrogen 10 1
+
+notation. 10 2
+
+number 10 22
+
+nucleophil 10 63
+
+notic 10 2
+
+note 10 3
+
+nu 10 2
+
+nucleophile/bas 10 1
+
+nucleophile)<br 10 1
+
+nucleophile] 10 1
+
+observ 10 1
+
+o<sub>3</sub 10 1
+
+numer 10 1
+
+oh<sup>-</sup> 10 1
+
+oh 10 1
+
+oh 10 1
+
+obtain 10 3
+
+occur 10 5
+
+origin 10 2
+
+orbit 10 7
+orbit 5 1
+
+open 10 1
+open 5 1
+
+onlin 5 1
+
+olah 10 1
+
+oper 10 4
+
+open-cont 1 1
+
+option 10 2
+
+organ 9 1
+organ 10 9
+organ 7 12
+organ 5 9
+
+order 10 1
+order 5 1
+
+orient 10 2
+
+organomercuri 10 1
+
+orientation==== 10 1
+
+oxymercur 10 4
+
+oxid 10 6
+
+overall<b 10 1
+
+overlap 10 1
+
+oxygen 10 2
+
+pad 10 9
+
+ozonolysi 10 1
+
+ozon 10 1
+
+p-2 10 1
+
+pka 5 1
+
+replac 10 2
+replac 5 1
+
+prior 5 1
+prior 4 1
+
+physic 5 1
+
+pent-2-en 10 1
+
+page/featured} 1 1
+
+page/sisters} 1 1
+
+padding:10px 1 3
+
+padding:0px;" 1 1
+
+page 1 1
+
+page/recipe} 1 1
+
+page/wikijunior} 1 1
+
+palladium 10 2
+
+pair 10 3
+
+pages]]</div 1 1
+
+partial 10 1
+
+part 10 1
+
+parallel 10 1
+
+pass 10 1
+pass 5 1
+
+pathway 10 3
+
+period 5 1
+
+percarboxyl 10 1
+
+pent-3-en 10 1
+
+perform 10 2
+
+perpendicular 10 1
+
+permit 10 1
+
+periplanar 10 1
+
+peroxid 10 3
+
+phosphor 10 1
+
+persever 5 1
+
+phrase 10 1
+
+preced 10 1
+
+polym 10 1
+
+platinum 10 1
+
+planar 10 4
+
+pi-bond 10 2
+
+pi 10 2
+
+place 10 14
+place 5 1
+
+plane 10 3
+
+plastic 10 1
+
+point 10 2
+
+play 10 3
+play 5 1
+
+polariz 10 1
+
+polar 10 16
+
+polyethylen 10 1
+
+posit 10 7
+
+poor 10 2
+
+polymer 10 2
+
+polypropylen 10 1
+
+poorer. 10 1
+
+poorer 10 1
+
+power 10 1
+
+possibl 10 1
+
+potenti 10 1
+
+practic 10 1
+
+pretti 10 1
+
+prefix 10 1
+
+predomin 10 4
+
+predict 10 1
+
+precis 10 1
+
+prefer 10 16
+
+preferenti 10 3
+
+presenc 10 6
+
+prepar 10 2
+
+present 10 2
+
+pressur 10 1
+
+primarili 10 2
+primarili 5 1
+
+primari 10 9
+
+prevent 10 3
+
+print 5 1
+
+reactions/polar 9 1
+
+question 5 4
+
+produc 10 16
+
+problem 10 1
+
+prioriti 10 11
+
+pro-chir 10 1
+
+proceed 10 3
+
+procedur 10 1
+
+process 10 4
+
+properti 10 1
+properti 5 1
+
+product== 10 1
+
+product 10 46
+product 5 1
+
+proper 10 1
+
+project 10 3
+
+purpos 7 1
+
+protic 10 7
+
+propos 10 1
+
+purer 10 1
+
+quaternari 10 1
+
+push 10 1
+
+radic 10 2
+radic 9 2
+
+r<sub>2</sub>bh 10 1
+
+r<sub>2</sub>-cho 10 1
+
+r-ch=ch-r') 10 1
+
+quick 10 1
+
+r<sub>1</sub>-cho 10 1
+
+r<sub>2</sub>chx 10 1
+
+r<sub>2</sub>chx 10 1
+
+r<sub>2</sub>chx 10 1
+
+r<sub>2</sub>chx 10 1
+
+r<sub>3</sub>b 10 1
+
+r<sub>3</sub>cx 10 1
+
+r<sub>3</sub>cx 10 1
+
+r<sub>3</sub>cx 10 1
+
+r<sub>3</sub>cx 10 1
+
+r<sub>3</sub>b 10 1
+
+ro<sup>-</sup 10 1
+
+racem 10 1
+
+rch<sub>2</sub>x 10 1
+
+rch<sub>2</sub>x 10 1
+
+rch<sub>2</sub>x 10 1
+
+rs<sup>-</sup> 10 1
+
+rch<sub>2</sub>x 10 1
+
+reaction 10 143
+reaction 9 1
+reaction 5 2
+
+react 10 6
+
+rate 10 18
+
+rare 10 3
+
+rate-limit 10 5
+
+reactant 10 5
+
+reaction] 10 2
+reaction] 9 1
+
+reaction== 10 2
+
+reaction)<br 10 2
+
+reactions/induct 10 1
+
+reaction]] 10 1
+
+reactions/redox 9 1
+
+realiti 10 2
+
+reactions|polar 9 1
+
+reactions] 9 4
+
+reactions= 10 3
+reactions= 9 1
+
+reactions== 10 2
+
+reactions|redox 9 1
+
+reactiv 10 6
+
+reaction|prin 10 1
+
+reagent 10 4
+
+read 10 1
+
+regard 10 1
+
+reason 10 2
+
+rearrang 10 4
+
+rearrangement.<p 10 1
+
+reduc 10 3
+
+recov 10 1
+
+red 10 3
+
+reduct 10 5
+
+referenc 10 1
+
+reliabl 10 3
+
+relat 10 6
+
+regiospecif 10 2
+
+releas 10 1
+
+relationship 10 1
+
+remot 10 1
+
+remain 10 1
+
+remov 10 3
+
+style="width:100% 1 2
+
+short|100%|jan 7 1
+
+rule= 10 1
+
+review 7 1
+
+result 10 10
+
+repres 10 2
+
+report 10 1
+
+requir 10 6
+
+represent 10 1
+
+reveal 10 1
+
+retro-diels–ald 10 1
+
+revers 10 3
+
+room|questions] 1 1
+
+right.in 10 1
+
+richer 10 1
+
+rich 10 1
+
+role 10 4
+role 5 1
+
+ring 10 5
+
+room 10 1
+
+rule 10 19
+
+rotation== 10 1
+
+rotat 10 3
+
+rout 10 1
+
+rule) 10 1
+
+rule. 10 1
+
+serv 10 1
+serv 5 1
+
+sciences] 1 1
+
+s<sub>n</sub>2</h3 10 1
+
+russian 10 1
+
+rule== 10 1
+
+rule] 10 1
+
+s<sub>n</sub>1</h3 10 1
+
+s<sub>n</sub>2 10 1
+
+s<sub>n</sub>2== 10 1
+
+s<sub>n</sub>1 10 1
+
+schewek 4 1
+
+scienc 5 1
+scienc 4 1
+
+section 10 2
+section 7 1
+
+sec-butyl 10 2
+
+sciences|soci 1 1
+
+secondari 10 7
+
+second-ord 10 2
+
+separ 10 6
+
+sequenc 10 1
+
+short|100%|april 7 1
+
+short 10 1
+
+share 10 4
+
+set 10 1
+
+shift 10 1
+
+short|100%|nov 7 1
+
+short|100%|jan 9 1
+
+short|100%|april 7 1
+
+short|100%|april 7 1
+
+short|100%|april 7 1
+
+short|100%|april 7 1
+
+stay 10 1
+
+solid 10 9
+solid 5 1
+
+shown 10 4
+
+short|75%|jan 9 1
+
+short|50%|jan 9 1
+
+short|100%|jan 7 1
+
+short|50%|jan 9 1
+
+short|75%|novemb 7 1
+
+show 10 5
+
+singl 10 6
+
+simpl 10 2
+
+side. 10 1
+
+side 10 26
+
+signific 10 1
+
+simpli 10 5
+
+simplifi 10 1
+
+situat 10 3
+
+sit 10 1
+
+single-step 10 1
+
+situ 10 2
+
+sodium 10 5
+
+slight 10 3
+
+sole 10 1
+
+stabil 10 12
+
+sp<sup>2</sup 10 1
+
+solvent.<p 10 1
+
+solvent 10 29
+
+solut 10 8
+solut 5 1
+
+solvent,we'r 10 1
+
+solvents</h3 10 1
+
+sort 10 1
+
+spectroscop 10 1
+
+special 10 2
+
+speci 10 3
+
+specif 10 3
+
+spontan 10 1
+
+spell 10 1
+
+start 5 1
+
+stage 10 4
+
+stabl 10 19
+
+stand 10 7
+
+state 10 9
+
+states:"when 10 1
+
+structure] 7 1
+
+straight-forward 10 1
+
+stereochemistri 10 3
+
+step 10 21
+
+stem 10 1
+
+stereospecif 10 5
+
+stereoselect 10 2
+
+steric 10 6
+
+stronger 10 3
+
+strong 10 15
+
+structur 10 13
+
+structure|atom 7 1
+
+structures|electron 7 1
+
+structures] 7 1
+
+student 5 3
+
+struggl 5 1
+
+stuck 10 1
+
+style="clear:both 1 2
+
+studi 7 1
+studi 5 1
+
+style="float:right 1 3
+
+uniqu 10 1
+uniqu 5 1
+
+text-align:cent 1 1
+
+success 5 1
+
+substanc 5 1
+
+style="width:50% 1 1
+
+style="width:40% 1 1
+
+style="width:33% 1 3
+
+subjects]]' 1 1
+
+subject 10 1
+subject 5 5
+
+subject|al 1 1
+
+substitut 10 19
+
+substitu 10 17
+
+succeed 5 1
+
+substrat 10 5
+
+tabl 5 2
+
+surpris 10 1
+
+superior 5 1
+
+sulfoxide|dmso]] 10 1
+
+suffix 10 2
+
+sulfur 10 1
+
+support 10 1
+
+superstit 5 2
+
+surfac 10 1
+
+synthesi 10 3
+
+synthes 10 3
+
+syn 10 1
+
+system 10 5
+
+termin 10 10
+
+tend 10 2
+
+temperatur 10 2
+
+take 10 6
+take 5 1
+
+temporari 10 2
+
+term 10 2
+
+tendenc 10 3
+
+term. 10 1
+
+tetrahydrofuran 10 5
+
+test 10 1
+test 5 2
+
+tertiari 10 5
+
+text 10 1
+text 5 1
+
+transport 5 1
+
+tobi 3 1
+
+theori 5 1
+
+textbook 1 1
+
+text-align:center;" 1 1
+
+textbook-wiki 4 1
+
+threememb 10 1
+
+think 5 1
+
+time 10 4
+
+thusli 10 1
+
+tran 10 3
+
+top 10 7
+
+tool 10 1
+
+topic 7 1
+
+trans-but-2-en 10 3
+
+trans-alken 10 3
+
+trans-but-2-ene] 10 1
+
+transit 10 5
+
+typic 10 1
+typic 5 2
+
+trend 5 1
+
+treat 10 2
+treat 5 1
+
+tremend 10 1
+
+trisubstitu 10 1
+
+tripl 10 1
+
+trialkyl-boron 10 1
+
+two-stag 10 2
+
+truth 5 1
+
+type 10 4
+
+undergo 10 5
+
+ultim 5 1
+
+understand 10 5
+understand 5 2
+
+unfil 10 2
+
+wiki-experi 4 1
+
+vertical-align:top 1 3
+
+valu 5 1
+
+unsymmetr 10 1
+
+unknown 10 1
+unknown 5 1
+
+unit 10 1
+
+unstabl 10 1
+
+unrel 10 1
+
+valign="bottom 10 4
+
+vacant 10 2
+
+valign="top 10 5
+
+version 10 2
+
+vapor 10 1
+
+versa 10 1
+
+vsepr 5 1
+
+versitil 10 1
+
+water 10 6
+
+vladmir 10 1
+
+vicin 10 5
+
+vice 10 1
+
+vis-a-vi 5 1
+
+viewer 10 1
+
+width="75% 10 1
+
+width="75% 10 1
+
+width="75% 10 1
+
+width="58% 10 1
+
+way 10 3
+
+width="99% 10 1
+
+width="25% 10 1
+
+width="75% 10 1
+
+width="99% 10 1
+
+water 10 7
+
+web!</cent 5 1
+
+weak 10 3
+
+way.<p 10 1
+
+width="75% 10 1
+
+width:30%;" 1 3
+
+wide 10 1
+
+yield 10 22
+
+work 10 5
+
+wikipedia] 4 1
+
+wikibooks] 1 1
+
+word 10 2
+
+wittig 10 2
+
+world 5 1
+
+works== 10 1
+
+write 10 1
+
+worri 10 1
+
+x-c-c-h 10 1
+
+zide') 10 1
+
+zide 10 1
+
+zaitsev 10 7
+
+zinc] 10 1
+
+zinc 10 1
+
+zusammen 10 4
+
+z|zaitsev 10 1
+
